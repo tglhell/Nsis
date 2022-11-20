@@ -1,0 +1,2 @@
+# Nsis
+install
